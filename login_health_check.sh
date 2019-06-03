@@ -1,0 +1,1 @@
+curl http://localhost:12001/_status/healthy
